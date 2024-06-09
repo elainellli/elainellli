@@ -78,7 +78,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/elainellli">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="mailto:zl4490@nyu.edu">
+           <a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=zl4490@nyu.edu">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>	
       </div>
 
