@@ -17,9 +17,10 @@
 - 🔭 I’m currently working on spring boot projects
 - 🌱 I’m currently learning software architecture
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about Python
+- 💬 Ask me about Python, Java
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her
+- ⚡ Fun fact: Music and art lover
 
 <br>
 
