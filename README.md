@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on spring boot projects
+- 🔭 I’m currently working on Django and Flask projects
 - 🌱 I’m currently learning software architecture
 - 👯 I’m looking to collaborate on your open source projects
 - 💬 Ask me about Python, Java
